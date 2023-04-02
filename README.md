@@ -1,4 +1,11 @@
 ### Hi there 👋
+I am Jayus. A master student in Chinese University of Hongkong, Shenzhen, major in data science. 
+I try to do some interesting things with you！
+
+
+- 🔭 I’m currently working on paper for recommender systems implement with Pytorch 😊 
+- Please give me any advice！
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
   <br><br />
@@ -12,6 +19,7 @@
 
 | <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=i-Jayus&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="i-Jayus's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-Jayus&layout=compact&theme=buefy&hide_border=true" /> </a> | 
 | ------------- | ------------- |
+
 
 </p>
 
@@ -33,7 +41,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
