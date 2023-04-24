@@ -6,7 +6,7 @@ I try to do some interesting things with you！
 - 🔭 I’m currently working on paper for recommender systems implement with Pytorch 😊 
 - Please give me any advice！
 
-![](https://img.shields.io/badge/Python-blue) ![](https://img.shields.io/badge/Golang-blue) ![](https://img.shields.io/badge/SQL-blue) ![](https://img.shields.io/badge/Spark-red) ![](https://img.shields.io/badge/Pytorch-red) ![](https://img.shields.io/badge/recommender_system-green) ![](https://img.shields.io/badge/oversampling-green) ![](https://img.shields.io/badge/AI_for_science-green) ![](https://img.shields.io/badge/faireness-green)
+![](https://img.shields.io/badge/Python-blue) ![](https://img.shields.io/badge/Golang-blue) ![](https://img.shields.io/badge/SQL-blue) ![](https://img.shields.io/badge/Java-blue) ![](https://img.shields.io/badge/C-blue) ![](https://img.shields.io/badge/Spark-red) ![](https://img.shields.io/badge/Pytorch-red) ![](https://img.shields.io/badge/recommender_system-green) ![](https://img.shields.io/badge/oversampling-green) ![](https://img.shields.io/badge/AI_for_science-green) ![](https://img.shields.io/badge/faireness-green)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
