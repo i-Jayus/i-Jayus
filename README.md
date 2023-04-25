@@ -5,6 +5,7 @@ I try to do some interesting things with you！
 
 - 🔭 I’m currently working on paper for recommender systems implement with Pytorch 😊 
 - Please give me any advice！
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=i-Jayus" alt="i-Jayus" /> </p>
 
 <!--[](https://img.shields.io/github/followers/i-Jayus.svg?style=social)-->
 ![](https://img.shields.io/github/stars/i-Jayus.svg?style=social)
